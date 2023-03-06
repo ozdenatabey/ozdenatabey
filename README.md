@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ozden Atabey<br>A junior full stack developer from Turkey<br>🌱 I’m currently learning Django<br>You can reach me at ozdenatabey@hotmail.com
+Hi, I'm Ozden Atabey<br>A junior full stack developer from Turkey<br>🌱 I’m currently learning Java<br>You can reach me at ozdenatabey@hotmail.com
 
 
 ## 🌐 Socials:
