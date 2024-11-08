@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi I'm Özden<br>🌱 I’m currently learning JavaScript & React
+👋 Hi I'm Özden<br>🌱 I’m currently learning Next.js
 
 
 ## 🌐 Socials:
